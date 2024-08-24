@@ -1,12 +1,6 @@
 ### Wine Quality Prediction
 
-This repository contains the code and resources for predicting wine quality based on its chemical properties using machine learning techniques.
+The Wine Quality Prediction project leverages machine learning techniques to predict the quality of wine based on its chemical properties. By analyzing a dataset containing features such as acidity, sugar levels, pH, and alcohol content, the model aims to accurately classify wine quality on a scale. The project involves data preprocessing, feature selection, model training, and evaluation to ensure the highest predictive accuracy. This tool is particularly useful for wine producers and consumers looking to assess wine quality objectively. The final model can serve as a reliable predictor in various wine production scenarios.
 
-### Overview
 
-Wine quality is influenced by various chemical properties. This project aims to predict wine quality on a scale from 0 to 10 using features like acidity, sugar content, and alcohol levels.
-
-### Dataset
-
-The project utilizes the Wine Quality Data Set from the UCI Machine Learning Repository, containing data on red and white wines.
 
